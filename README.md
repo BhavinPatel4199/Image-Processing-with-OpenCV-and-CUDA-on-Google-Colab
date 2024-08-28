@@ -44,3 +44,6 @@ OpenCV provides CUDA-enabled libraries that significantly speed up image process
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
+### **Clone the Repository:**
+   ```bash
+   git clone https://github.com/krishnapatel1722/Machine-Learning-Programming.git
