@@ -46,4 +46,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ### **Clone the Repository:**
    ```bash
-   git clone https://github.com/krishnapatel1722/Machine-Learning-Programming.git
+   git clone https://github.com/krishnapatel1722/Image-Processing-with-OpenCV-and-CUDA-on-Google-Colab.git
